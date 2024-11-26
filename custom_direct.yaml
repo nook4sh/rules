@@ -1,0 +1,6 @@
+payload:
+  # xbox商店下载（大陆地区）
+  - 'assets1.xboxlive.cn'
+  - 'assets2.xboxlive.cn'
+  - 'dl.delivery.mp.microsoft.com'
+  - 'tlu.dl.delivery.mp.microsoft.com'
